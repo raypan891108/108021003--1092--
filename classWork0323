@@ -9,6 +9,6 @@ public class classWork{
     public static void encrypt(String key, String str){
         int[] array_str = Integer.parseInt(str.split(""));
         int[] array_key = Integer.parseInt(key.split(""));
-        int[] array_encrypt
+        int[] array_encrypt = Inte
     }
 }
