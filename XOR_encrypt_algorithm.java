@@ -1,5 +1,5 @@
 import java.util.*;
-public class classWork{
+public class XOR_encrypt_algorithm{
     public static void main(String[] args){
         String key = "01101011";
         Scanner scn = new Scanner(System.in);
